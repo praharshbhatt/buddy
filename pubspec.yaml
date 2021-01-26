@@ -1,0 +1,58 @@
+name: buddy
+description: Aayush's buddy app
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.9.0-19.0.dev <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase
+  firebase_core: ^0.7.0
+  cloud_firestore: ^0.16.0
+  firebase_auth: ^0.20.0+1
+  firebase_storage: ^7.0.0
+
+  # authentication
+  google_sign_in: ^4.5.9
+
+  # UI related
+  flutter_launcher_icons:
+
+  # Utility
+  get_it: ^5.0.6
+  file_picker: ^2.1.5+1
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  # include Material icons with application
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/animations/
+    - assets/data/
+
+  #Fonts
+  fonts:
+    - family: Helvetica Neue
+      fonts:
+        - asset: assets/fonts/Helvetica Neue Light.ttf
+          weight: 300
+        - asset: assets/fonts/Helvetica Neue Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Helvetica Neue Bold.ttf
+          weight: 700

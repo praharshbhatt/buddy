@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "635140042302",
+    "project_id": "buddy-42791",
+    "storage_bucket": "buddy-42791.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635140042302:android:3d00d89e7ca20efc57eb6f",
+        "android_client_info": {
+          "package_name": "com.aayush.buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635140042302-vlr5nunmh9qn5evvjmc87ne6r6gkdhtc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aayush.buddy",
+            "certificate_hash": "64b56e807f4171deb3fa8943ef924ac9fa02b531"
+          }
+        },
+        {
+          "client_id": "635140042302-p5c7j3nu5ul0lgl1jpcob1pa4lgcqd7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1k8oNBuHr5zTaUheEu0bpCW2Oa5ZnDfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635140042302-p5c7j3nu5ul0lgl1jpcob1pa4lgcqd7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
